@@ -1,0 +1,9 @@
+No-Perms: "&cInsufficient Permissions."
+Usage: "&cError: &7/prune <player>"
+Player-Not-Found: "&cError: &7Player not found."
+Player-Is-Immune: "&cError: &7That player is immune to being pruned."
+
+Success:
+  message-to-sender: "&bYou have pruned &e&l%arg-1%&b's balance for &e&l%pruned% Krunas&b."
+  log-command: "doe &e&l%player% &bhas pruned &e&l%arg-1%&b's balance for &e&l%pruned% Krunas&b."
+  gov-account: "BusinessCraftGov"
